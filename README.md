@@ -8,4 +8,4 @@ voulant acheter les produits proposés par l'entreprise Sunukoom.
 ### Accueil
 ![alt text](https://github.com/smagaye/Sunukoom-E-commerce/blob/master/docs/images/sunukoom3.PNG)
 
-![alt text](https://github.com/smagaye/Sunukoom-E-commerce/blob/master/docs/images/sunukoom3.PNG)
+![alt text](https://github.com/smagaye/Sunukoom-E-commerce/blob/master/docs/images/sunukoom4.PNG)
