@@ -1,0 +1,17 @@
+1571743948
+s:1899:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 22 Oct 2019 09:32:28 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Backend-Server: vm2728.jn-hebergement.com
+
+{"modules":[{"id":"15280","name":"statsproduct","displayName":"Product details","categoryName":"Analyses & Statistiques","description":"Adds detailed statistics for each product to the Stats dashboard","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/fr\/analyses-statistiques\/15280-product-details.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/15280.jpg","fullDescription":"Adds detailed statistics for each product to the Stats dashboard.","additionalDescription":"","features":"","customer_benefits":"","demo_video":"","version":"2.0.3","last_update":"2019-10-20 14:08:16","compatibility":{"from":"1.7.1.0","to":"1.7.6.1"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias2.prestastore.com\/1294353-pprod\/product-details.jpg","big":"https:\/\/medias2.prestastore.com\/1294353-pbig\/product-details.jpg"}}]}";

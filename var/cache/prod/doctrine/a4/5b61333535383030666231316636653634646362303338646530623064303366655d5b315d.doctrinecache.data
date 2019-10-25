@@ -1,0 +1,17 @@
+1571743706
+s:3310:"HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 22 Oct 2019 09:28:26 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: strict-origin-when-cross-origin
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Backend-Server: vm2728.jn-hebergement.com
+
+{"modules":[{"id":"22319","name":"ps_featuredproducts","displayName":"Featured products","categoryName":"Produits en page d'accueil","description":"Choisissez la cat&eacute;gorie de produits que vous voulez mettre en avant pour am&eacute;liorer l&rsquo;exp&eacute;rience client avec une page d&rsquo;accueil dynamique et vivante","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/fr\/produits-page-accueil\/22319-featured-products.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/22319.jpg","fullDescription":"Choisissez la cat&eacute;gorie de produits que vous voulez mettre en avant pour am&eacute;liorer l&rsquo;exp&eacute;rience client avec une page d&rsquo;accueil dynamique et vivante.","additionalDescription":"Servez-vous de ce module natif pour :\r\n<ul>\r\n\t<li><strong>Accro&icirc;tre votre visibilit&eacute;<\/strong> : s&eacute;lectionnez une cat&eacute;gorie et affichez quelques-uns de ses produits sur votre page d&rsquo;accueil.<\/li>\r\n\t<li><strong>Promouvoir votre catalogue<\/strong> : vos produits ont besoin d&rsquo;attention, mettez-en quelques-uns sous les feux des projecteurs en un clic pour favoriser l&rsquo;achat spontan&eacute;.<\/li>\r\n<\/ul>\r\n","features":"Le module Produits Phares augmente vos ventes en affichant vos nouveaux produits, des promotions ou des s&eacute;lections d&rsquo;articles directement depuis votre front office, dans la colonne centrale de la page d&rsquo;accueil. En outre, vous pouvez choisir les produits mis en avant.","customer_benefits":"<span style=\"color:#000000\">Immediate, one-click access to relevant products<\/span>","demo_video":"","version":"2.0.0","last_update":"2019-10-20 14:08:07","compatibility":{"from":"1.7.1.0","to":"1.7.6.1"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias3.prestastore.com\/1271559-pprod\/featured-products.jpg","big":"https:\/\/medias3.prestastore.com\/1271559-pbig\/featured-products.jpg"},"pictures":{"small":["https:\/\/medias1.prestastore.com\/1271560-pprod\/featured-products.jpg","https:\/\/medias1.prestastore.com\/1271561-pprod\/featured-products.jpg"],"big":["https:\/\/medias1.prestastore.com\/1271560-pbig\/featured-products.jpg","https:\/\/medias1.prestastore.com\/1271561-pbig\/featured-products.jpg"]}}]}";
