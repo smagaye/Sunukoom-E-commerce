@@ -18,3 +18,12 @@ voulant acheter les produits proposés par l'entreprise Sunukoom.
 
 ### Affichage d'un produit
 ![alt text](https://github.com/smagaye/Sunukoom-E-commerce/blob/master/docs/images/sunukoom7.PNG)
+
+### Panier
+![alt text](https://github.com/smagaye/Sunukoom-E-commerce/blob/master/docs/images/sunukoom8.PNG)
+
+### Informations personnelles
+![alt text](https://github.com/smagaye/Sunukoom-E-commerce/blob/master/docs/images/sunukoom9.PNG)
+
+### Paiement
+![alt text](https://github.com/smagaye/Sunukoom-E-commerce/blob/master/docs/images/sunukoom10.PNG)
